@@ -12,6 +12,9 @@ import { schema } from './schema/index.ts';
           name: f.companyName(),
           description: f.loremIpsum(),
         },
+        with: {
+          questions: 5,
+        },
       },
     };
   });

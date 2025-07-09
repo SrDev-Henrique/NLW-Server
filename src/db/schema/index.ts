@@ -1,7 +1,9 @@
 // Arquivo para exportar todos os arquivos de schema
 
-import { rooms } from "./rooms.ts";
+import { questions } from './questions.ts';
+import { rooms } from './rooms.ts';
 
 export const schema = {
-    rooms,
-}
+  rooms,
+  questions,
+};
