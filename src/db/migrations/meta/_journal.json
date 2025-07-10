@@ -15,6 +15,13 @@
       "when": 1752033621384,
       "tag": "0001_clear_energizer",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752110741394,
+      "tag": "0002_lying_piledriver",
+      "breakpoints": true
     }
   ]
 }
